@@ -10,4 +10,4 @@
 
 #### Testez votre système en utilisant différentes commandes pour vous assurer qu'il fonctionne correctement et qu'il produit les résultats attendus.
 
-`P.s. : Vous pouvez utiliser la base de code fournit dans studentApp.js`
+`P.s. : Vous pouvez utiliser la base de code fournit dans index.js`
